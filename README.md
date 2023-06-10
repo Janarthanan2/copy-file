@@ -18,8 +18,8 @@ Copy the contents using write() with the for loop.
 End the program.
 ## PROGRAM:
 ```
-#Developed By: AdhithyaRam D
-#Register No: 212222230008
+#Developed By: JANARTHANAN V K
+#Register No: 212222230051
 with open('f1.txt','r') as f1:
     with open ('f2.txt','a') as f2:
         for line in f1:
